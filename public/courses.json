@@ -1,0 +1,83 @@
+
+
+{
+
+    "courses": [
+      {
+        "id": 1,
+        "name": "Complete JEE Advanced Physics",
+        "image": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a876e0a0-77e6-4b35-bc1d-e02949306f4f.jpg",
+        "price": 4999
+      },
+      {
+        "id": 2,
+        "name": "NEET Biology Crash Course 2024",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbn82yodsHn3q_nqquj8EsEuwemXl5IvObw&s",
+        "price": 3999
+      },
+      {
+        "id": 3,
+        "name": "UPSC General Studies Prelims  2024",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuDmmv36qxy_y0x52qts-q6OV_F-Mgug39g&s",
+        "price": 5999
+      },
+      {
+        "id": 4,
+        "name": "GATE Mechanical Engineering Masterclass",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DAkpm3NVyNcVdj-hpkvtZB2T5Vz4sK_eDw&s",
+        "price": 6999
+      },
+      {
+        "id": 5,
+        "name": "JEE Main Mathematics - Advanced Level",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqwgMMJDTFSKuJ3BBIaM2dQjtyWEMNXvPTA&s",
+        "price": 4499
+      },
+
+      {
+        "id": 6,
+        "name": "NEET Chemistry Complete Course",
+        "image": "/assets/c6.jpeg",
+        "price": 5299
+      },
+      {
+        "id": 7,
+        "name": "UPSC Optional History Course",
+        "image": "/assets/c7.jpeg",
+        "price": 7499
+      },
+      {
+        "id": 8,
+        "name": "GATE Electrical Engineering Full Course",
+        "image": "/assets/c8.jpeg",
+        "price": 7999
+      },
+      {
+        "id": 9,
+        "name": "JEE Organic Chemistry In-Depth",
+        "image": "/assets/c9.jpeg",
+        "price": 4799
+      },
+      {
+        "id": 10,
+        "name": "NEET Physics Problem Solving Mastery",
+        "image": "/assets/c10.jpeg",
+        "price": 4199
+      },
+      {
+        "id": 11,
+        "name": "UPSC Ethics and Essay Writing Course",
+        "image": "/assets/c11.jpeg",
+        "price": 6999
+      },
+      {
+        "id": 12,
+        "name": "GATE Computer Science Algorithms Course",
+        "image": "/assets/c12.jpeg",
+        "price": 5999
+      }
+
+
+    ]
+  }
+  
