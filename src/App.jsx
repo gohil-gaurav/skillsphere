@@ -4,6 +4,7 @@ import { NavBar } from './page1/NavBar';
 import Login from './page1/login';
 import CourseList from './page1/CourseList';
 import FAQSection from './page1/FAQSection';
+import AboutUs from './page1/AboutUs';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       </div>
      <CourseList />
      <FAQSection />
+     <AboutUs />
 
 
     </>

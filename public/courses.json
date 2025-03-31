@@ -36,13 +36,13 @@
 
       {
         "id": 6,
-        "name": "NEET Chemistry Complete Course",
+        "name": "NEET Chemistry Complete Course ",
         "image": "/assets/c6.jpeg",
         "price": 5299
       },
       {
         "id": 7,
-        "name": "UPSC Optional History Course",
+        "name": "UPSC Optional History Course 2024",
         "image": "/assets/c7.jpeg",
         "price": 7499
       },
