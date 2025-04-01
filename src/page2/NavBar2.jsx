@@ -20,6 +20,7 @@ const NavBar2 = () => {
         </div>
       </div>
     </nav>
+    
 
     
     </>
