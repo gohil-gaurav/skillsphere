@@ -1,7 +1,9 @@
 @import "tailwindcss";
-main
+
 *{
     color: black;
+}
+
 }
 
 html {
