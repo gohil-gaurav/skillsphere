@@ -3,3 +3,18 @@
 *{
     color: black;
 }
+
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for Firefox */
+  html {
+    scrollbar-width: none;
+  }
