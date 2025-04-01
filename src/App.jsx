@@ -5,6 +5,7 @@ import Login from './page1/login';
 import CourseList from './page1/CourseList';
 import FAQSection from './page1/FAQSection';
 import AboutUs from './page1/AboutUs';
+import NavBar2 from './page2/NavBar2';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path="/" element={<NavBar />} />
         <Route path="/Login" element={<Login />} />
+        <Route path="/NavBar2" element={<NavBar2 />} />
       </Routes>
       </div>
      <CourseList />
