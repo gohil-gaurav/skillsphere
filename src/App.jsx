@@ -12,7 +12,7 @@ import MyCource from './page2/MyCource'
 
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { NavBar } from './page1/NavBar';
+
 import Login from './page1/login';
 import CourseList from './page1/CourseList';
 import FAQSection from './page1/FAQSection';
